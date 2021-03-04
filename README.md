@@ -1,1 +1,1 @@
-# Dark-Mode-Changer
+# Dark-Mode-Chager
