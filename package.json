@@ -2,7 +2,7 @@
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrewmedvedev42.github.io/Dark-Mode-Changer",
+  "homepage": "https://andrewmedvedev42.github.io/Dark-Mode-Changer/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
